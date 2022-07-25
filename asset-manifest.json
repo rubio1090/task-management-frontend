@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://rubio1090.github.io/task-management-frontend/static/css/main.221589fe.chunk.css",
+    "main.js": "https://rubio1090.github.io/task-management-frontend/static/js/main.646664f7.chunk.js",
+    "main.js.map": "https://rubio1090.github.io/task-management-frontend/static/js/main.646664f7.chunk.js.map",
+    "runtime~main.js": "https://rubio1090.github.io/task-management-frontend/static/js/runtime~main.e4b07d41.js",
+    "runtime~main.js.map": "https://rubio1090.github.io/task-management-frontend/static/js/runtime~main.e4b07d41.js.map",
+    "static/js/2.968454d7.chunk.js": "https://rubio1090.github.io/task-management-frontend/static/js/2.968454d7.chunk.js",
+    "static/js/2.968454d7.chunk.js.map": "https://rubio1090.github.io/task-management-frontend/static/js/2.968454d7.chunk.js.map",
+    "index.html": "https://rubio1090.github.io/task-management-frontend/index.html",
+    "precache-manifest.77f3dcebeb7d86678a4f6bc3ff16ae35.js": "https://rubio1090.github.io/task-management-frontend/precache-manifest.77f3dcebeb7d86678a4f6bc3ff16ae35.js",
+    "service-worker.js": "https://rubio1090.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.221589fe.chunk.css.map": "https://rubio1090.github.io/task-management-frontend/static/css/main.221589fe.chunk.css.map"
+  }
+}
